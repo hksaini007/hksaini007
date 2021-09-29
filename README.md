@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Hemant
 - 👀 I’m interested in Python app development
 - 🌱 I’m currently learning Flask, Docker, Kubernetes
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... hksainiofficial@gmail.com
+- 💞️ I’m looking to collaborate on web app development & deployment
+- 📫 Reach me over hksainiofficial@gmail.com
 
 <!---
 hksaini007/hksaini007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
